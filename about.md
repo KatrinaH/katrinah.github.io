@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a lover of code, currently working as a Web Developer in the Washington, DC area. 
+I'm a lover of code, currently working as a Web Developer in the Washington, DC area. 
 I mostly program on the front-end of the web but also enjoy programming the back-end with Node and Express. In addition to all of the tech topics I read, I have a passion for all things creative. From designing interfaces to sewing something new for the wardrobe.
 
 When I'm not wrangling code, I'm usually hanging out and having fun with my amazing hubs and my two little girls. 
