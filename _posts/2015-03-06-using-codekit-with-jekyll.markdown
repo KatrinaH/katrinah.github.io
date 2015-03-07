@@ -3,6 +3,7 @@ layout: post
 title:  "Using CodeKit with Jekyll"
 date:   2015-03-06 
 comments: true
+permalink: using-codekit-with-jekyll
 ---
 In the terminal, to start Jekyll, navigate to your sites root folder and type `jekyll build --watch`. The root folder will be generated into ./_site and watched for changes with auto-regeneration enabled.
 

@@ -3,6 +3,7 @@ layout: post
 title:  "A Work In Progress"
 date:   2015-03-05 
 comments: true
+permalink: a-work-in-progress
 ---
 Pardon the dust! This site is a work in progress. Follow along with me as I build out this site using [Jekyll] hosted with [Github Pages].
 
