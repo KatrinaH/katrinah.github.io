@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://katrinahussain.com" # the base hostname & protocol for your site
 twitter_username: trinabhu
 github_username:  KatrinaH
-linkedin_username: katrinahussain
+linkedin_username: 
 googlePlus_username: KatrinaHussain
 
 # Build settings
