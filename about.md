@@ -9,5 +9,5 @@ I mostly program on the front-end of the web but also enjoy programming the back
 
 When I'm not wrangling code, I'm usually hanging out and having fun with my amazing husband and my two little girls. 
 
-This little space on the web is a place for me to share my journey of creating + coding!
+This little space on the web is a place for me to document and share my journey as I create + code!
  
