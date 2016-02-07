@@ -1,9 +1,9 @@
 # Site settings
 title: Katrina Hussain
-email: me@katrinahussain.com
+email: me@katrinah.io
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://katrinahussain.com" # the base hostname & protocol for your site
+url: "http://katrinah.io" # the base hostname & protocol for your site
 twitter_username: trinabhu
 github_username:  KatrinaH
 linkedin_username: 
